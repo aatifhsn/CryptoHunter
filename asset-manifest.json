@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/%7BCryptoHunter%7D/static/css/main.1f49dda3.chunk.css",
+    "main.js": "/%7BCryptoHunter%7D/static/js/main.dbf92c37.chunk.js",
+    "main.js.map": "/%7BCryptoHunter%7D/static/js/main.dbf92c37.chunk.js.map",
+    "runtime-main.js": "/%7BCryptoHunter%7D/static/js/runtime-main.e3b0f7fb.js",
+    "runtime-main.js.map": "/%7BCryptoHunter%7D/static/js/runtime-main.e3b0f7fb.js.map",
+    "static/css/2.02daa001.chunk.css": "/%7BCryptoHunter%7D/static/css/2.02daa001.chunk.css",
+    "static/js/2.09a79071.chunk.js": "/%7BCryptoHunter%7D/static/js/2.09a79071.chunk.js",
+    "static/js/2.09a79071.chunk.js.map": "/%7BCryptoHunter%7D/static/js/2.09a79071.chunk.js.map",
+    "index.html": "/%7BCryptoHunter%7D/index.html",
+    "static/css/2.02daa001.chunk.css.map": "/%7BCryptoHunter%7D/static/css/2.02daa001.chunk.css.map",
+    "static/css/main.1f49dda3.chunk.css.map": "/%7BCryptoHunter%7D/static/css/main.1f49dda3.chunk.css.map",
+    "static/js/2.09a79071.chunk.js.LICENSE.txt": "/%7BCryptoHunter%7D/static/js/2.09a79071.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3b0f7fb.js",
+    "static/css/2.02daa001.chunk.css",
+    "static/js/2.09a79071.chunk.js",
+    "static/css/main.1f49dda3.chunk.css",
+    "static/js/main.dbf92c37.chunk.js"
+  ]
+}
